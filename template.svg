@@ -228,7 +228,7 @@
 
   <!-- first -->
       <g transform="translate(10, 0)" class="msg-1">
-        <rect width="150" height="42" rx="18.0355" />
+        <rect width="150" height="42" rx="18.0355" class="bubble" />
         <text x="15" y="27">Hi, I'm Yuzomi! </text>
       </g>
 
@@ -251,14 +251,14 @@
 
       <!-- From Columbus... -->
       <g transform="translate(10, 48)" class="msg-2">
-        <rect width="350" height="66.1302" rx="18.0355" />
+        <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
         <text x="15" y="27">Thank you for coming to my GitHub 💗</text>
         <text x="15" y="50">I live in Seoul, Korea now.</text>
       </g>
 
       <!-- typing 3 -->
       <g transform="translate(10, 120)" class="typing-3">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
+        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
         <circle cx="13.591" cy="33.091" r="7.68185" />
         <circle cx="3.54547" cy="41.9547" r="3.54547" />
 
@@ -276,7 +276,7 @@
 
       <!-- From ... -->
       <g transform="translate(10, 120)" class="msg-3">
-        <rect width="320" height="66.1302" rx="18.0355" />
+        <rect width="320" height="66.1302" rx="18.0355" class="bubble" />
         <text x="15" y="27">I want to be a front-end developer.</text>
         <text x="15" y="50">
           So, I'm learning a lot in 'like lion'.
@@ -285,7 +285,7 @@
 
       <!-- typing 4 -->
       <g transform="translate(10, 192)" class="typing-4">
-        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" />
+        <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble"/>
         <circle cx="13.591" cy="33.091" r="7.68185" />
         <circle cx="3.54547" cy="41.9547" r="3.54547" />
 
@@ -302,7 +302,7 @@
 
       <!-- Twitter -->
       <g transform="translate(10, 192)" class="msg-4">
-        <rect width="510" height="42" rx="18.0355" />
+        <rect width="510" height="42" rx="18.0355" class="bubble" />
         <text x="15" y="27">
           You can find me on instagram at
           <a xlink:href="https://www.instagram.com/yuzomi.zip">instagram.com/yuzomi.zip</a>
@@ -328,7 +328,7 @@
 
       <!-- Thanks -->
       <g transform="translate(10, 240)" class="msg-5">
-        <rect width="220" height="42" rx="18.0355" />
+        <rect width="220" height="42" rx="18.0355" class="bubble" />
         <text x="15" y="27">Thanks for stopping by</text>
       </g>
 
@@ -351,7 +351,7 @@
 
       <!-- Have a great... -->
       <g transform="translate(10, 288)" class="msg-6">
-        <rect width="200" height="42" rx="18.0355" />
+        <rect width="200" height="42" rx="18.0355" class="bubble" />
         <text x="15" y="27">Have a great Day! 💗</text>
       </g>
     </svg>
