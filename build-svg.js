@@ -24,7 +24,7 @@ function convertTZ(date, tzString) {
 const today = convertTZ(new Date(), "Asia/Seoul");
 const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(today);
 
-const psTime = formatDistance(new Date(2020, 12, 14), today, {
+const psTime = formatDistance(new Date(2022, 09, 28), today, {
   addSuffix: false
 })
 
